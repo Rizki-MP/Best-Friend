@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+:root {
+    --mainColor:#e4f3ff;
+    --secondaryColor:#00AEFF;
+    --secondaryMainColor: #050033;
+    --text-white: #e9e9e9;
+    --main:#7cd5ff;
+}
+
+.main {
+    color: var(--mainColor) !important;
+}
+.text-white {
+    color: var(--text-white) !important;
+}
+
+.text-black {
+    color: #050033 !important;
+}
+
+.secondaryColor {
+    color: var(--secondaryColor) !important;
+}
+
+.bg-secondaryColor {
+    background-color: var(--secondaryColor) !important;
+}
+
+body {
+    font-family: 'Poppins' sans-serif !important;
+    background-color: var(--mainColor);
+    color: var(--secondaryMainColor);
+    font-weight: 600 !important;
+}
+
+/* all */
+.garis {
+    height: 3px;
+}
+
+.garis-secondary {
+    color: #e4f3ff;
+    background-color: #e4f3ff;
+    height: 3px;
+}
+/* end all */
+
+/* hero */
+#btn-hero {
+    border-radius: 20px;
+    font-weight: 500;
+}
+
+.img-hero {
+    width: 250px;
+    border-radius: 50%;
+}
+
+.hero-about {
+    rotate: -100%;
+    color: var(--secondaryColor);
+}
+/* end hero */
+
+/* about */
+
+/* end about */

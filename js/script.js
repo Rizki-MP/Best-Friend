@@ -1,0 +1,5 @@
+alert('Oy farell.....wkwkwk dah ulta aw')
+alert('Selamat ulang tahun')
+alert('Moga imannya tambah kuat dan ilmunya bertambah')
+alert('ini web tentang saya dan kau....(belum sempurna jadi karena kerjanya baru semalam)')
+alert('enjoy')
